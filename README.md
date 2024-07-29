@@ -4,14 +4,14 @@ This repository was created to help developers implement a ripple effect on mous
 
 ## Preview
 
-  In this [https://ithauront.github.io/water-effect-react/](url) you can see the effect in action before downloading or cloning the repository.
+  In this [link](https://ithauront.github.io/water-effect-react/) you can see the effect in action before downloading or cloning the repository.
 
 
 ## Features
 
-    Ripple effect on mouse movement
-    Easy customization of colors and background image
-    Usability with React and Styled Components
+ Ripple effect on mouse movement
+ Easy customization of colors and background image
+ Usability with React and Styled Components
 
 ## Customization
 
