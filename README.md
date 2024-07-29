@@ -4,7 +4,7 @@ This repository was created to help developers implement a ripple effect on mous
 
 ## Preview
 
-  In this *link* you can see the effect in action before downloading or cloning the repository.
+  In this [https://ithauront.github.io/water-effect-react/](url) you can see the effect in action before downloading or cloning the repository.
 
 
 ## Features
@@ -27,13 +27,13 @@ This repository was created to help developers implement a ripple effect on mous
 
 * Clone the repository (if you want to use the entire project):
 
-```git clone https://github.com/yourusername/yourrepository.git```
+```git clone https://github.com/ithauront/water-effect-react```
 
 Or simply copy the necessary code from this repository and add it to your existing project.
 
 * If you cloned the repository, navigate to the project directory:
 
-```cd yourrepository```
+```cd water-effect-react```
 
 * Install the dependencies:
 
