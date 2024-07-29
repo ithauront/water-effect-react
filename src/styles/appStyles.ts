@@ -16,7 +16,7 @@ export const AppContainer = styled.div`
     transform: scale(0);
     animation: ripple 0.85s ease-out forwards;
 
-   // Another element to highlight the effect
+   // Another element to highlight the effect (optional)
     &::before {
       content: '';
       position: absolute;

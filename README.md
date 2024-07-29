@@ -1,30 +1,55 @@
-# React + TypeScript + Vite
+# Ripple Effect Background with React and Styled Components
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository was created to help developers implement a ripple effect on mouse movement using React and Styled Components. The idea came from my personal need for this effect, and not finding any existing repositories that provided it for React(perhaps it exists, but I didn't find it), I decided to create this one to make it easier for others.
 
-Currently, two official plugins are available:
+## Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  In this *link* you can see the effect in action before downloading or cloning the repository.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Features
 
-- Configure the top-level `parserOptions` property like this:
+    Ripple effect on mouse movement
+    Easy customization of colors and background image
+    Usability with React and Styled Components
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json', './tsconfig.app.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+## Customization
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+  * Colors: The colors of the ripple effect (ink) should be adjusted to match the colors of the chosen background. The transparency of the colors (on border, not on background) can also be modified to achieve the desired effect.
+  *  Background Image: The background image can and should be changed to fit your project.
+
+## Technologies Used
+
+  *  React
+  * Styled Components
+
+## Installation
+
+* Clone the repository (if you want to use the entire project):
+
+```git clone https://github.com/yourusername/yourrepository.git```
+
+Or simply copy the necessary code from this repository and add it to your existing project.
+
+* If you cloned the repository, navigate to the project directory:
+
+```cd yourrepository```
+
+* Install the dependencies:
+
+```npm install```
+
+* Start the project:
+
+```npm start```
+
+## Contribution
+
+If you want to contribute to this project, feel free to fork the repository, create a branch, implement your improvements, and open a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+Support
+
+## If you like this project, please give it a star!
